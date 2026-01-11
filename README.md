@@ -8,8 +8,6 @@
 ## 📁 Proyectos
 - **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20.
 
-<br>
-
 ## 💻 Stack Tecnológico
 ### ⚛️ Frontend
 <p align="center">
@@ -43,8 +41,8 @@
 </p>
 
 ## 🚀 Actualmente aprendiendo
-- 🤖 **Integraciones con IA (OpenAI, automatizaciones).**
-- 🏗️ **Lenguajes y frameworks frontend y backend.**
+- 🤖 Integraciones con IA (OpenAI, automatizaciones).
+- 🏗️ Lenguajes y frameworks frontend y backend.
 
 ## 💪 Áreas de Especialización
 - 🌐 **Desarrollo Full Stack**: Desarrollo completo de aplicaciones frontend-backend.
