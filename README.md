@@ -1,16 +1,62 @@
-## Hi there 👋
+## ¡Hola! 👋 Soy Romeerz
+🚀 Desarrollador Full Stack especializado en la creación de aplicaciones web escalables y orientadas a negocio.
 
-<!--
-**Romeerz/Romeerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mí:
+-🎓 Titulado en Desarrollo de Aplicaciones Web
+-💡 En constante aprendizaje de tecnologías frontend y backend así como integraciones con IA y automatizaciones
 
-Here are some ideas to get you started:
+## ⭐ Proyectos Destacados
+- **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack Tecnológico
+### ⚛️ Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="50" alt="angular logo" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" height="50" alt="jquery logo" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="50" alt="cakephp logo" />
+</p>
+
+### 🗄️ Bases de datos
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo" />
+</p>
+
+### 🐳 DevOps y Herramientas
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+</p>
+
+### 💻 IDEs
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="eclipse logo" />
+</p>
+
+## 🚀 Actualmente aprendiendo
+- 🤖 Integraciones con IA (OpenAI, automatizaciones)
+- 🏗️ Lenguajes y frameworks frontend y backend
+
+## 💪 Áreas de Especialización
+- 🌐 **Desarrollo Full Stack**: Desarrollo completo de aplicaciones frontend-backend
+- 🔄 **APIs RESTful**: Diseño e implementación de servicios web
+- 🗄️ **Gestión de Datos**: Modelado y optimización de bases de datos
+- 🤖 **IA**: Automatizaciones, creación de bots e integraciones basadas en IA (OpenAI, Robocorp, Botpress)
+
+## 📫 Contacto
+- LinkedIn: [Rafael Romero](https://www.linkedin.com/in/rafael-romero-761067292/)
+- GitHub: [@Romeerz](https://github.com/Romeerz)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Romeerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Romeerz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+💬 Siempre abierto a colaborar en proyectos interesantes o nuevas oportunidades.
