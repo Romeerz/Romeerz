@@ -1,7 +1,7 @@
-## ¡Hola! 👋 Soy Romeerz
+# ¡Hola! 👋 Soy Romeerz
 🚀 Desarrollador Full Stack especializado en la creación de aplicaciones web escalables y orientadas a negocio.
 
-# Sobre mí:
+## Sobre mí:
 -🎓 Titulado en Desarrollo de Aplicaciones Web
 -💡 En constante aprendizaje de tecnologías frontend y backend así como integraciones con IA y automatizaciones
 
@@ -54,7 +54,7 @@
 - LinkedIn: [Rafael Romero](https://www.linkedin.com/in/rafael-romero-761067292/)
 - GitHub: [@Romeerz](https://github.com/Romeerz)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Romeerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Romeerz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
