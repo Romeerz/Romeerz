@@ -3,7 +3,7 @@
 
 ## 🤔 Sobre mí
 - 🎓 Titulado en Desarrollo de Aplicaciones Web.
-- 🤖 En constante aprendizaje de tecnologías frontend y backend así como automatizaciones e integraciones con IA.
+- 🤖 En constante aprendizaje de tecnologías fullstack así como automatizaciones e integraciones con IA.
 
 ## 📁 Proyectos
 - **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20.
@@ -58,7 +58,7 @@
 
 ## 🌐 Contacto
 <a href="https://www.linkedin.com/in/rafael-romero-761067292/">
-		<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" alt="linkedin logo"  />
+	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" alt="linkedin logo"  />
 </a>
 
 ---
