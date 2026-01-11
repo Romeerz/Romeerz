@@ -1,11 +1,11 @@
 # ¡Hola! 👋 Soy Romeerz
-🚀 Desarrollador Full Stack especializado en la creación de aplicaciones web escalables y orientadas a negocio.
+  Desarrollador Full Stack especializado en la creación de aplicaciones web escalables y orientadas a negocio.
 
 ## Sobre mí:
--🎓 Titulado en Desarrollo de Aplicaciones Web
--💡 En constante aprendizaje de tecnologías frontend y backend así como integraciones con IA y automatizaciones
+- 🎓 Titulado en Desarrollo de Aplicaciones Web
+- 💡 En constante aprendizaje de tecnologías frontend y backend así como integraciones con IA y automatizaciones
 
-## ⭐ Proyectos Destacados
+## Proyectos Destacados
 - **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20
 
 ## Stack Tecnológico
