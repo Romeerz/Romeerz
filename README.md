@@ -2,42 +2,26 @@
   Desarrollador Full Stack especializado en la **creación de aplicaciones web escalables y orientadas a negocio.**
 
 ## 🤔 Sobre mí
-- 🤖 En constante aprendizaje de tecnologías fullstack así como automatizaciones e integraciones con IA.
+  En constante aprendizaje de tecnologías fullstack así como automatizaciones e integraciones con IA 🤖. 
 
 ## 📁 Proyectos
 - **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20.
 
 ## 💻 Stack Tecnológico
 ### ⚛️ Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="50" alt="angular logo" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" height="50" alt="jquery logo" />
-</p>
+<p> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> </p>
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg" height="50" alt="cakephp logo" />
-</p>
+<p> <img src="https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white" /> </p>
 
 ### 🗄️ Bases de datos
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="redis logo" />
-</p>
+<p> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> </p>
 
 ### 🐳 DevOps y Herramientas
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-</p>
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
-### 💻 IDEs
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="eclipse logo" />
-</p>
+### 🛠️ IDEs
+<p> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" /> </p>
 
 <!--
 ## 🚀 Actualmente aprendiendo
@@ -56,9 +40,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Contacto
-<a href="https://www.linkedin.com/in/rafael-romero-761067292/">
-	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" alt="linkedin logo"  />
-</a>
+- LinkedIn: [Rafael Romero](https://www.linkedin.com/in/rafael-romero-761067292/)
 
 ---
 💬 Siempre abierto a colaborar en proyectos interesantes o nuevas oportunidades.
