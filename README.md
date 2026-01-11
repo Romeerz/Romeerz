@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="eclipse logo" />
 </p>
 
+<!--
 ## 🚀 Actualmente aprendiendo
 - 🤖 Integraciones con IA (OpenAI, automatizaciones).
 - 🏗️ Lenguajes y frameworks frontend y backend.
@@ -48,6 +49,7 @@
 - 🌐 **Desarrollo Full Stack**: Desarrollo completo de aplicaciones frontend-backend.
 - 🗄️ **Bases de Datos**: Modelado y optimización de bases de datos.
 - 🤖 **IA**: Automatizaciones, creación de bots e integraciones basadas en IA (OpenAI, Robocorp, Botpress).
+-->
 
 ## 📫 Contacto
 - LinkedIn: [Rafael Romero](https://www.linkedin.com/in/rafael-romero-761067292/)
