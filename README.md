@@ -1,14 +1,14 @@
 # ¡Hola! 👋 Soy Romeerz
-  Desarrollador Full Stack especializado en la creación de aplicaciones web escalables y orientadas a negocio.
+  Desarrollador Full Stack especializado en la **creación de aplicaciones web escalables y orientadas a negocio.**
 
-## Sobre mí:
-- 🎓 Titulado en Desarrollo de Aplicaciones Web
-- 💡 En constante aprendizaje de tecnologías frontend y backend así como integraciones con IA y automatizaciones
+## 🤔 Sobre mí:
+- 🎓 Titulado en Desarrollo de Aplicaciones Web.
+- 💡 En constante aprendizaje de tecnologías frontend y backend así como automatizaciones e integraciones con IA.
 
-## Proyectos Destacados
-- **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20
+## 📁 Proyectos
+- **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20.
 
-## Stack Tecnológico
+## 💻 Stack Tecnológico
 ### ⚛️ Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="50" alt="angular logo" />
@@ -36,19 +36,19 @@
 ### 💻 IDEs
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="eclipse logo" />
 </p>
 
 ## 🚀 Actualmente aprendiendo
-- 🤖 Integraciones con IA (OpenAI, automatizaciones)
-- 🏗️ Lenguajes y frameworks frontend y backend
+- 🤖 **Integraciones con IA (OpenAI, automatizaciones).**
+- 🏗️ **Lenguajes y frameworks frontend y backend.**
 
 ## 💪 Áreas de Especialización
-- 🌐 **Desarrollo Full Stack**: Desarrollo completo de aplicaciones frontend-backend
-- 🔄 **APIs RESTful**: Diseño e implementación de servicios web
-- 🗄️ **Gestión de Datos**: Modelado y optimización de bases de datos
-- 🤖 **IA**: Automatizaciones, creación de bots e integraciones basadas en IA (OpenAI, Robocorp, Botpress)
+- 🌐 **Desarrollo Full Stack**: Desarrollo completo de aplicaciones frontend-backend.
+- 🔄 **APIs RESTful**: Diseño e implementación de servicios web.
+- 🗄️ **Gestión de Datos**: Modelado y optimización de bases de datos.
+- 🤖 **IA**: Automatizaciones, creación de bots e integraciones basadas en IA (OpenAI, Robocorp, Botpress).
 
 ## 📫 Contacto
 - LinkedIn: [Rafael Romero](https://www.linkedin.com/in/rafael-romero-761067292/)
