@@ -5,10 +5,8 @@
 - 🎓 Titulado en Desarrollo de Aplicaciones Web.
 - 💡 En constante aprendizaje de tecnologías frontend y backend así como automatizaciones e integraciones con IA.
 
-
 ## 📁 Proyectos
 - **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20.
-
 
 ## 💻 Stack Tecnológico
 ### ⚛️ Frontend
@@ -42,27 +40,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="eclipse logo" />
 </p>
 
-
 ## 🚀 Actualmente aprendiendo
 - 🤖 **Integraciones con IA (OpenAI, automatizaciones).**
 - 🏗️ **Lenguajes y frameworks frontend y backend.**
-
 
 ## 💪 Áreas de Especialización
 - 🌐 **Desarrollo Full Stack**: Desarrollo completo de aplicaciones frontend-backend.
 - 🗄️ **Bases de Datos**: Modelado y optimización de bases de datos.
 - 🤖 **IA**: Automatizaciones, creación de bots e integraciones basadas en IA (OpenAI, Robocorp, Botpress).
 
-
 ## 📫 Contacto
 - LinkedIn: [Rafael Romero](https://www.linkedin.com/in/rafael-romero-761067292/)
 - GitHub: [@Romeerz](https://github.com/Romeerz)
-
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Romeerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Romeerz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 💬 Siempre abierto a colaborar en proyectos interesantes o nuevas oportunidades.
