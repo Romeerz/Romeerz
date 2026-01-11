@@ -3,7 +3,7 @@
 
 ## 🤔 Sobre mí:
 - 🎓 Titulado en Desarrollo de Aplicaciones Web.
-- 💡 En constante aprendizaje de tecnologías frontend y backend así como automatizaciones e integraciones con IA.
+- 🤖 En constante aprendizaje de tecnologías frontend y backend así como automatizaciones e integraciones con IA.
 
 ## 📁 Proyectos
 - **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20.
@@ -51,11 +51,10 @@
 - 🤖 **IA**: Automatizaciones, creación de bots e integraciones basadas en IA (OpenAI, Robocorp, Botpress).
 -->
 
-## 📫 Contacto
-- LinkedIn: [Rafael Romero](https://www.linkedin.com/in/rafael-romero-761067292/)
-- GitHub: [@Romeerz](https://github.com/Romeerz)
+## 🌐 Contacto
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-romero-761067292/) 
 
-## 📊 GitHub Stats:
+## 📊 Estadísticas Github:
 ![](https://github-readme-stats.vercel.app/api?username=Romeerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Romeerz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Romeerz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
