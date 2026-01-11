@@ -2,7 +2,6 @@
   Desarrollador Full Stack especializado en la **creación de aplicaciones web escalables y orientadas a negocio.**
 
 ## 🤔 Sobre mí
-- 🎓 Titulado en Desarrollo de Aplicaciones Web.
 - 🤖 En constante aprendizaje de tecnologías fullstack así como automatizaciones e integraciones con IA.
 
 ## 📁 Proyectos
