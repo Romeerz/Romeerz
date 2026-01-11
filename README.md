@@ -5,7 +5,7 @@
   En constante aprendizaje de tecnologías full stack así como automatizaciones e integraciones con IA 🤖. 
 
 ## 📁 Proyectos
- **[mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20.
+ **[Mediapp](https://github.com/BertoMP/mediapp)** - Aplicación web para gestión médica basada en Angular 17 y Node 20.
 
 ## 💻 Stack Tecnológico
 ### ⚛️ Frontend
